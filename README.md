@@ -1,10 +1,10 @@
 # Enstart Extension: Database
 
-Wrapper for [mrjgreen/database](https://github.com/mrjgreen/database)
+Wrapper for [mrjgreen/database](https://github.com/mrjgreen/database) for the enstart framework.
 
 #### Dependencies:
 
-* `maer/enstart` version 0.2+
+* `enstart/core` version 0.3+
 * PHP 7.0+ with the PDO extension
 
 #### Install
