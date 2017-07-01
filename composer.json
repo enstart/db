@@ -1,0 +1,22 @@
+{
+    "name": "enstart/db",
+    "description": "Database extension for maer/enstart framework",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Magnus Eriksson",
+            "email": "mange@reloop.se"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=7.0",
+        "mrjgreen/database": "^2.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Enstart\\Ext\\Database\\": "src/"
+        }
+    }
+}
