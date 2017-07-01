@@ -9,7 +9,7 @@ Wrapper for [mrjgreen/database](https://github.com/mrjgreen/database) for the en
 
 #### Install
 
-    composer require maer/enstart-db
+    composer require enstart/db
 
 #### Config:
 
